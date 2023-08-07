@@ -28,7 +28,7 @@ The Video Trimmer and Screenshot Creator is a Python project that enables users 
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/video-trimmer-screenshot-creator.git
+   git clone https://github.com/sasindudmapa/video-trimmer-screenshot-creator.git
    cd video-trimmer-screenshot-creator
    ```
 
